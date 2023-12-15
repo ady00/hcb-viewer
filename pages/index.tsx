@@ -37,7 +37,7 @@ export default function Home({ initData }: InferGetStaticPropsType<typeof getSta
 		<>
 			<Head>
 				<title>HCB&apos;s directory</title>
-				<meta name="description" content="A directory of all Hack Club Bank projects that have enabled super-transparency" />
+				<meta name="description" content="A directory of all Hack Club Bank hackathons/events" />
 				<meta name="viewport" content="width=device-width, initial-scale=1" />
 				<link rel="icon" href="/favicon.png" />
 			</Head>
